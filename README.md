@@ -36,7 +36,7 @@
 
 ## Overview
 
-JS_StopWatch is a lightweight, precise timing utility designed for developers to effortlessly measure elapsed time within their applications. Its core functionality includes start, stop, and reset operations, providing accurate timing for performance testing or user interaction tracking. The tool features real-time display updates with formatted hours, minutes, seconds, and milliseconds, ensuring clear and immediate feedback. 
+An exercise for a lightweight, precise timing utility designed for developers to effortlessly measure elapsed time within their applications. Its core functionality includes start, stop, and reset operations, providing accurate timing for performance testing or user interaction tracking. The tool features real-time display updates with formatted hours, minutes, seconds, and milliseconds, ensuring clear and immediate feedback. 
 
 **Why JS_StopWatch?**
 
